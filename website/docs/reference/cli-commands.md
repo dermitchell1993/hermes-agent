@@ -468,7 +468,7 @@ On-demand vulnerability scan against [OSV.dev](https://osv.dev). Covers the Herm
 
 ## `hermes auth`
 
-Manage credential pools for same-provider key rotation. See [Credential Pools](/user-guide/features/credential-pools) for full documentation.
+Manage credential pools for same-provider key rotation. See [Credential Pools](website/docs/user-guide/features/credential-pools.md) for full documentation.
 
 ```bash
 hermes auth                                              # Interactive wizard
